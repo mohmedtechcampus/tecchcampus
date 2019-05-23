@@ -1,1 +1,1 @@
-# tecchcampus
+# techcampus
